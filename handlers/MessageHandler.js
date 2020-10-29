@@ -8,7 +8,7 @@ class MessageHandler {
   }
 
   afterInit = function () {
-    console.log("MessageHandler initialized");
+    this.bot.log("MessageHandler initialized");
     // Initialize Message Listeners
     this.bot.on("message", (message) => {
       // Parse Message
