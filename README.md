@@ -1,0 +1,2 @@
+# peter.js
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce7ed94c53594fc583017261f650c678)](https://app.codacy.com/gh/ibveecnk/peter.js?utm_source=github.com&utm_medium=referral&utm_content=ibveecnk/peter.js&utm_campaign=Badge_Grade_Settings)
