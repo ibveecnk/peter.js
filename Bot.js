@@ -4,7 +4,6 @@ class Bot extends Discord.Client {
   constructor() {
     super();
     this.login(process.env.TOKEN).then(() => {
-      console.log("Bot initialized and logged in as", this.user.username);
       this.afterInit();
     });
   }

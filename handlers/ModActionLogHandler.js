@@ -8,7 +8,7 @@ class ModActionLogHandler {
   }
 
   afterInit = function () {
-    console.log("ModActionLogHandler initialized");
+    // Register Handlers
   };
 
   actionReceived = function (guild, message) {
